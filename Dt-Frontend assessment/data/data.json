@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Introduction to Psychology",
+        "category": "Psychology",
+        "description": "Explore the basics of human behavior and cognition."
+    },
+    {
+        "id": 2,
+        "title": "DeepTech Innovations",
+        "category": "Tech",
+        "description": "Learn about cutting-edge tech in EdTech."
+    },
+    {
+        "id": 3,
+        "title": "Cognitive Learning Models",
+        "category": "Psychology",
+        "description": "Dive into socio-psychological models for education."
+    },
+    {
+        "id": 4,
+        "title": "React Native for Apps",
+        "category": "Tech",
+        "description": "Build mobile apps with React Native."
+    }
+]
